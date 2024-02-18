@@ -90,7 +90,6 @@ while True:
     for pos in snake:
         screen.blit(snake_skin,pos)
 
-    # 
     for segment in snake[1:]:
         if collision_with_border(snake[0], segment):
             print("A cobra colidiu consigo mesma!")
@@ -100,4 +99,4 @@ while True:
         print('A cobra bateu na borda!')
         break
 
-    pygame.display.update()
+    pygame.display.update()     
