@@ -221,9 +221,6 @@ while (sair == 0): # tela inicial
             screen.blit(text_menu_quit, (187, 240)) 
 
 
-            # menu "press P for play"    
-
-
             pygame.display.update()
         
         while (menu_upgrade == True):
