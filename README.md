@@ -11,6 +11,7 @@
 </ul>
 
 # future projects
+- [ ] finish the snake game project
 - [ ] make an application with API web
       
 > [!IMPORTANT]
