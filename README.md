@@ -9,8 +9,10 @@
 <li><a href="https://github.com/jH0NYSS/py/tree/main/previs%C3%B5es_IA">Artificial Intelligence and Predictions</a></li>
 </ul>
 
-# projetos futuroz
+# projetos futuro
 - [ ] Finalizar o Snake game
       
 > [!IMPORTANT]
-> Estou aberto para sugestões de melhoria ou projetos
+> ## Contribuições
+>
+>Contribuições são sempre bem-vindas! Se você encontrou algum problema, tem alguma sugestão de melhoria ou deseja adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
