@@ -1,7 +1,6 @@
-# 👋 Hello! Welcome to my Github profile.
-## I'm Jhonata but you can call me Jhony!
+# 👋 Olá esse é meu portifolio PYTHON
 
-### Taking my first steps in Python with these projects! ➡️
+### Esses são meus projetos em python! ➡️
 
 <ul>
 <li><a href="https://github.com/jH0NYSS/py/tree/main/Analisando_dados">data analysis with pandas</a></li>
@@ -10,9 +9,8 @@
 <li><a href="https://github.com/jH0NYSS/py/tree/main/previs%C3%B5es_IA">Artificial Intelligence and Predictions</a></li>
 </ul>
 
-# future projects
-- [ ] finish the snake game project
-- [ ] make an application with API web
+# projetos futuroz
+- [ ] Finalizar o Snake game
       
 > [!IMPORTANT]
-> In the project <a href="https://github.com/jH0NYSS/py/tree/main/Analisando_dados" >data analysis with pandas</a> the "cancellation" file is heavy so it is in .rar
+> Estou aberto para sugestões de melhoria ou projetos
